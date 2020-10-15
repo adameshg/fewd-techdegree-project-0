@@ -1,2 +1,2 @@
-# techdegree-project-0
+# Techdegree Project 0
  Techdegree test respository
